@@ -40,6 +40,7 @@ executive advisory for transformation leaders
 ## Projects
 
 - **[ClauseLens](https://clauselens.netlify.app)** — AI-powered contract clause extractor · React + Claude API · [repo](https://github.com/Spr0/ClauseLens)
+- **[CareerForge](hettps://aicareerforge.netlify.app)** -AI-powered career search tool · React + Claude API · [repo](https://github.com/Spr0/CareerForge)
 
 ---
 

@@ -37,6 +37,12 @@ executive advisory for transformation leaders
 
 ---
 
+## Projects
+
+- **[ClauseLens](https://clauselens.netlify.app)** — AI-powered contract clause extractor · React + Claude API · [repo](https://github.com/Spr0/ClauseLens)
+
+---
+
 ## Let's Connect
 
 Open to VP/Director roles in technology transformation, enterprise applications, 
